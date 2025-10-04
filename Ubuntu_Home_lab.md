@@ -77,7 +77,7 @@ sudo nmap --script vuln localhost
 **sudo nmap --script vuln localhost** runs vulnerability scripts against local services. where Nmap detected a potential Slowloris vulnerability on my VM machine.
 
 **Output:**
-![sudo nmap --script vuln localhost](./images/sudo%20nmap%20-sV.png)
+![sudo nmap --script vuln localhost](./images/sudo%20nmap%20vuln.png)
 
 ## 8. Inspect Network Traffic
 

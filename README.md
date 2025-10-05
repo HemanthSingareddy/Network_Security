@@ -6,3 +6,6 @@ Welcome to my **Network Security Home Lab** - a hands-on collection of experimen
 
 ### 1. Network Security Tools
 [Exploring Ubuntu Home Lab](./Ubuntu_Home_lab.md)
+
+### 2. Exploring UFW (Uncomplicated Firewall)
+[UFW](./UFW.md)

@@ -54,7 +54,7 @@ Port 443 is used for secure, encrypted web traffic like HTTPS.
 9. To allow someone's ip address to a specific port we can use the **command: sudo ufw allow from <ip address> to any <port no>**. 
 
 Port 587 is used for SMTP (Simple Mail Transfer Protocol) submission. It is the default port for sending outgoing mails from an email client to a mail server.
-![sudo ufw allow](./images%205/sudo%20ufw%20deny.png)
+![sudo ufw allow](./images%205/sudo%20ufw%20allow.png)
 
 10. Let's check all the rules by checking the status once more
 ![sudo verbose](./images%205/verbose%20status.png)

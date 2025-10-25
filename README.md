@@ -9,3 +9,6 @@ Welcome to my **Network Security Home Lab** - a hands-on collection of experimen
 
 ### 2. Exploring UFW (Uncomplicated Firewall)
 [UFW](./UFW.md)
+
+### 3. Exploring Snort
+[Snort](./Snort.md)
